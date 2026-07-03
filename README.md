@@ -1,36 +1,31 @@
 # Operating Systems Laboratory Course
 
-This repository contains the instructional materials that I developed for an undergraduate Operating Systems Laboratory course.
+This repository is part of my academic teaching portfolio and presents the instructional materials I independently developed for an undergraduate Operating Systems Laboratory course.
 
-The repository includes lecture slides, a Linux command reference sheet, and supporting teaching materials prepared for laboratory instruction.
+It includes comprehensive lecture slides, a Linux command reference sheet, and supporting materials designed for laboratory instruction.
+
+These materials reflect my experience in educational content development, technical documentation, and laboratory teaching.
 
 ---
 
 ## Course Information
 
-Course
-
-Operating Systems Laboratory
-
-Level
-
-Undergraduate
-
-Language
-
-Persian & English
-
-Author
-
-Hannah Fathi
+| Item | Description |
+|------|-------------|
+| Course | Operating Systems Laboratory |
+| Level | Undergraduate |
+| Language | Persian (English version in progress) |
+| Author | Hannah Fathi |
 
 ---
 
 ## Repository Contents
 
-- LectureSlides.pdf
-- Linux-CheatSheet.pdf
-- Instructor-Verification.pdf
+- Operating-Systems-Lecture-Slides-FA.pdf
+- Linux-CheatSheet-FA.pdf
+- Operating-Systems-Lecture-Slides-EN.pdf *(Coming Soon)*
+- Linux-CheatSheet-EN.pdf *(Coming Soon)*
+- Instructor-Verification.pdf *(Pending)*
 
 ---
 
@@ -111,13 +106,17 @@ After completing the laboratory, students should be able to
 
 ## Repository Structure
 
-Operating-Systems-Lab-Course/
+Operating-Systems-Laboratory-Course/
 
 ├── README.md
 
-├── LectureSlides.pdf
+├── Operating-Systems-Lecture-Slides-FA.pdf
 
-├── Linux-CheatSheet.pdf
+├── Linux-CheatSheet-FA.pdf
+
+├── Operating-Systems-Lecture-Slides-EN.pdf
+
+├── Linux-CheatSheet-EN.pdf
 
 └── Instructor-Verification.pdf
 
@@ -125,20 +124,24 @@ Operating-Systems-Lab-Course/
 
 ## Notes
 
-These educational materials were prepared for undergraduate laboratory instruction.
+These educational materials were independently developed by the author for undergraduate laboratory instruction.
 
-The repository is intended to demonstrate educational content development, technical documentation skills, and laboratory teaching experience.
+The repository demonstrates educational content development, technical documentation, and laboratory teaching experience.
+
+The instructional materials were used as teaching resources across multiple undergraduate laboratory sections.
 
 ---
 
-## Contact
+## About the Author
 
 Hannah Fathi
 
 M.Sc. Student in Artificial Intelligence
 
-Computer Vision
+Research Interests
 
-Remote Sensing
-
-Deep Learning
+- Computer Vision
+- Medical AI
+- Remote Sensing
+- Deep Learning
+- Satellite Image Processing
