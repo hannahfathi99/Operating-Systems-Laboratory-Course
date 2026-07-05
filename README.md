@@ -1,147 +1,161 @@
 # Operating Systems Laboratory Course
 
-This repository is part of my academic teaching portfolio and presents the instructional materials I independently developed for an undergraduate Operating Systems Laboratory course.
+This repository contains instructional materials developed for an undergraduate **Operating Systems Laboratory** course in Computer Engineering.
 
-It includes comprehensive lecture slides, a Linux command reference sheet, and supporting materials designed for laboratory instruction.
+The materials were created during my Bachelor’s studies at **Islamic Azad University, Bushehr Branch**, and were subsequently used as instructional resources in laboratory sessions under faculty supervision.
 
-These materials reflect my experience in educational content development, technical documentation, and laboratory teaching.
+This repository is part of my academic teaching portfolio and documents early-stage experience in educational content development and laboratory-based instruction.
 
 ---
 
-## Course Information
+## Academic Context
 
-| Item | Description |
-|------|-------------|
-| Course | Operating Systems Laboratory |
-| Level | Undergraduate |
-| Language | Persian (English version in progress) |
-| Author | Hannah Fathi |
+### Undergraduate Stage (Bachelor’s Degree)
+
+**Institution:** Islamic Azad University, Bushehr Branch  
+**Department:** Computer Engineering  
+**Course:** Operating Systems Laboratory  
+**Year:** 2024  
+
+During this course, I was involved in both the development of instructional materials and laboratory teaching activities under instructor supervision.
+
+My contributions included designing lecture slides, preparing a Linux command reference sheet, and supporting laboratory instruction activities.
+
+---
+
+## Verified Teaching Contribution
+
+The following activities were formally verified by the course instructor:
+
+- Independent development of the complete lecture slide deck for the course  
+- Preparation of a Linux command cheat sheet for laboratory use  
+- Instructional support during laboratory sessions  
+- Delivery of laboratory teaching for one undergraduate section under supervision  
+- Use of the developed materials across multiple laboratory sections  
+- Assistance in the administration of the final practical examination  
+
+A formal verification letter confirming these contributions is available upon request or included in this repository (if applicable).
+
+---
+
+## Timeline of Work
+
+- **Early 2024:** Development of lecture slides and laboratory materials  
+- **March 26, 2024:** Submission of instructional materials to the course instructor  
+- **Subsequent semesters:** Use of materials in laboratory instruction  
+- **Final phase:** Completion of the course with a final grade of 20/20  
 
 ---
 
 ## Repository Contents
 
-- Operating-Systems-Lecture-Slides-FA.pdf
-- Linux-CheatSheet-FA.pdf
-- Operating-Systems-Lecture-Slides-EN.pdf *(Coming Soon)*
-- Linux-CheatSheet-EN.pdf *(Coming Soon)*
-- Instructor-Verification.pdf *(Pending)*
+- **Operating-Systems-Lecture-Slides-FA.pdf**  
+  Complete lecture slide deck covering operating systems fundamentals and Linux laboratory topics.
+
+- **Linux-CheatSheet-FA.pdf**  
+  Concise reference sheet of essential Linux commands used in laboratory sessions and examinations.
+
+- **Operating-Systems-Lecture-Slides-EN.pdf** *(Coming soon)*  
+  English version of the lecture materials.
+
+- **Linux-CheatSheet-EN.pdf** *(Coming soon)*  
+  English version of the Linux command reference.
+
+- **Instructor-Verification.pdf** *(Optional / Pending)*  
+  Official verification letter confirming teaching contributions.
 
 ---
 
-## Course Objectives
+## Course Scope
 
-The purpose of this course is to introduce undergraduate students to the Linux operating system and provide practical experience with command-line tools, virtualization, and system administration fundamentals.
+The course introduces students to the fundamentals of operating systems with a focus on Linux-based environments.
 
-Students learn both theoretical concepts and practical skills through laboratory sessions.
+It emphasizes both theoretical foundations and practical system administration skills.
 
 ---
 
 ## Topics Covered
 
-- Introduction to Operating Systems
-- Functions of an Operating System
-- Types of Operating Systems
-- Linux Fundamentals
-- Linux Architecture
-- Linux Distributions
-- Ubuntu Operating System
-- Ubuntu Editions
-- Ubuntu Advantages and Limitations
-- Canonical and Ubuntu Development
-- Installing Ubuntu using VMware
-- Linux File System
-- Linux Terminal
-- Essential Linux Commands
-- User Management
-- File Permissions
-- Process Management
-- Package Management
-- Networking Commands
-- Shell Basics
+- Operating system fundamentals  
+- Process and memory management  
+- Linux architecture and distributions  
+- Ubuntu installation using VMware  
+- Linux file system hierarchy  
+- Terminal usage and shell operations  
+- Essential Linux commands  
+- User and permission management  
+- Package management systems  
+- Networking tools and diagnostics  
+- Introduction to system-level thinking  
 
 ---
 
 ## Teaching Materials
 
 ### Lecture Slides
-
-A complete lecture consisting of more than one hundred slides covering both theoretical and practical aspects of Linux and Ubuntu.
+A structured slide deck consisting of 100+ slides, designed to integrate theoretical operating systems concepts with practical Linux laboratory instruction.
 
 ### Linux Cheat Sheet
-
-A concise reference including frequently used Linux commands for laboratory exercises and practical examinations.
+A compact command reference designed for rapid use during laboratory sessions and practical examinations.
 
 ---
 
-## Skills Covered
+## Skills Demonstrated
 
-Students completing this laboratory are expected to gain experience with
+This work demonstrates early-stage academic and technical experience in:
 
-- Linux Command Line
-- Ubuntu Installation
-- VMware
-- File System Navigation
-- User and Permission Management
-- Networking Commands
-- Software Installation
-- Shell Utilities
+- Educational content design for computer science courses  
+- Laboratory-based teaching support under supervision  
+- Linux system administration fundamentals  
+- Technical documentation and curriculum structuring  
+- Translation of theoretical concepts into applied instruction  
 
 ---
 
 ## Learning Outcomes
 
-After completing the laboratory, students should be able to
+Students participating in this laboratory were expected to achieve the ability to:
 
-- Install Ubuntu using VMware
-- Navigate the Linux file system
-- Execute common shell commands
-- Manage files and directories
-- Install software packages
-- Create and manage users
-- Understand Linux permissions
-- Perform basic networking tasks
+- Install and configure Ubuntu in a virtualized environment (VMware)  
+- Navigate and manage Linux file systems  
+- Use essential shell commands effectively  
+- Manage users, groups, and permissions  
+- Install and maintain software packages  
+- Perform basic system administration tasks  
+- Apply networking commands for diagnostics and configuration  
+
+
 
 ---
 
-## Repository Structure
+# Repository Structure
 
+```
 Operating-Systems-Laboratory-Course/
 
-├── README.md
-
 ├── Operating-Systems-Lecture-Slides-FA.pdf
-
+│   
 ├── Linux-CheatSheet-FA.pdf
-
+│      
 ├── Operating-Systems-Lecture-Slides-EN.pdf
-
+│   
 ├── Linux-CheatSheet-EN.pdf
-
-└── Instructor-Verification.pdf
-
----
-
-## Notes
-
-These educational materials were independently developed by the author for undergraduate laboratory instruction.
-
-The repository demonstrates educational content development, technical documentation, and laboratory teaching experience.
-
-The instructional materials were used as teaching resources across multiple undergraduate laboratory sections.
+│      
+├── Instructor-Verification.pdf
+│   
+└── README.md
+```
 
 ---
-
 ## About the Author
 
-Hannah Fathi
+**Hannah Fathi**  
+M.Sc. Student in Artificial Intelligence  
+Shiraz University  
 
-M.Sc. Student in Artificial Intelligence
-
-Research Interests
-
-- Computer Vision
-- Medical AI
-- Remote Sensing
-- Deep Learning
+### Research Interests
+- Computer Vision  
+- Medical AI  
+- Remote Sensing  
+- Deep Learning  
 - Satellite Image Processing
