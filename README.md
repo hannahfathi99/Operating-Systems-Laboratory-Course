@@ -151,7 +151,7 @@ Operating-Systems-Laboratory-Course/
 
 **Hannah Fathi**  
 M.Sc. Student in Artificial Intelligence  
-Shiraz University  
+
 
 ### Research Interests
 - Computer Vision  
